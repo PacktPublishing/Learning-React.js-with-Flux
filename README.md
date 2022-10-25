@@ -27,3 +27,7 @@ Node.js 10.15.3
 
 * [Building User interface using React and Flux [Video]](https://www.packtpub.com/application-development/building-user-interface-using-react-and-flux-video?utm_source=github&utm_medium=repository&utm_campaign=9781788839655)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781787284449">https://packt.link/free-ebook/9781787284449 </a> </p>
